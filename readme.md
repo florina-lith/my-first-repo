@@ -1,28 +1,30 @@
-# This is a large heading
+# Paul Borman
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Los Angeles, in the
+	state of California, in the United
+	States
+of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Acid for the Children* by Flea
+- *Never Let Me Go* by Kazuo Ishiguro
+- *Meditations* by Marcus Aurelius
 
-```
-This is
-a block
-of code
-```
+I recommend these restaurants in the LA area:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Mini Kabob in Glendale
+2. Parsnip in Highland Park
+3. Golden Deli in San Gabriel
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+See my information [on LinkedIn](https://www.linkedin.com/in/paul-borman-598b31181/)
+
+:call_me_hand:
+
+:skateboard:
