@@ -27,4 +27,4 @@ See my information [on LinkedIn](https://www.linkedin.com/in/paul-borman-598b311
 
 :call_me_hand:
 
-:skateboard:
+:surfer:
